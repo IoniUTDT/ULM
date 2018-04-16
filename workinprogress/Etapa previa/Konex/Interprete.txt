@@ -1,0 +1,29 @@
+Formacion
+	Formacion
+		Artes
+		Biomedicas
+		Economicas
+		Ciencias Exactas
+		Fisica
+		Ciencias Sociales
+		Derecho
+		Otra Carrera
+		Psicologia
+		Ninguna
+		Otro
+Ver
+	Tiene que ver con...
+		Calor
+		Telequinesis
+		Magnetismo
+		Energia Cosmica
+		Presion
+		Fisica Cuantica
+		Electricidad
+		No lo se
+Justificacion
+	Cuan seguro estas
+	Hay truco
+		Si
+		No
+		No se
