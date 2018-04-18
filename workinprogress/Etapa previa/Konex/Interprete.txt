@@ -12,7 +12,7 @@ Formacion
 		Ninguna
 		Otro
 Ver
-	Tiene que ver con...
+	Justificacion
 		Calor
 		Telequinesis
 		Magnetismo
@@ -22,8 +22,8 @@ Ver
 		Electricidad
 		No lo se
 Justificacion
-	Cuan seguro estas
-	Hay truco
+	Nivel_seguridad
+	Truco
 		Si
 		No
 		No se
