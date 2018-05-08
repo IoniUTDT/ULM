@@ -1,0 +1,36 @@
+,MecanismoPost,HayTruco,RelevanciaMano,ConfianzaPost,Edad,ConfianzaInicial,Profesion,MecanismoInicial,Formacion,MecanismoInicialOtros,IdExp,IdForm,IdSubset,GradoExactas
+0,No lo se,Si,3,1,18 a 24,5,Mate/Comp/Sistemas,Calor,Secundaria,"['Magnetismo', 'Presion']",1002,['31256'],,Exactas
+1,Electricidad,Si,2,5,18 a 24,5,,Calor,,['Magnetismo'],1002,['59406'],,
+2,Magnetismo,Si,4,3,18 a 24,0,Ingenierias,Magnetismo,UniversidadCurso,"['Electricidad', 'Presion', 'Calor']",1002,['55654'],,Exactas
+3,Presion,Si,1,7,25 a 40,6,Bio/Qui/Geo/Paleo,Presion,UniversidadCurso,['CampoLibre'],1002,['15766'],,Exactas
+4,Presion,Si,4,5,18 a 24,3,Bio/Qui/Geo/Paleo,Magnetismo,,['Presion'],1002,['61935'],,Exactas
+5,Presion,No se,5,10,18 a 24,6,Bio/Qui/Geo/Paleo,Presion,Secundaria,['Magnetismo'],1002,['48628'],,Exactas
+6,No lo se,Si,4,0,18 a 24,3,Bio/Qui/Geo/Paleo,Magnetismo,UniversidadCurso,['Electricidad'],1002,['41905'],,Exactas
+7,Magnetismo,No,2,4,18 a 24,5,Bio/Qui/Geo/Paleo,Magnetismo,UniversidadCurso,['Presion'],1002,['25751'],,Exactas
+8,No lo se,Si,1,10,18 a 24,9,Bio/Qui/Geo/Paleo,Magnetismo,UniversidadCurso,['Electricidad'],1002,['57557'],,Exactas
+9,Magnetismo,Si,10,7,25 a 40,7,Bio/Qui/Geo/Paleo,Magnetismo,UniversidadCompleta,['Electricidad'],1002,['59238'],,Exactas
+10,Calor,No se,2,6,25 a 40,5,,Calor,UniversidadCompleta,,1002,['51161'],,
+11,Magnetismo,No se,8,7,25 a 40,5,Musica,Magnetismo,UniversidadCurso,['Calor'],1002,['34535'],,NoAfines
+12,Electricidad,Si,6,4,25 a 40,6,Bio/Qui/Geo/Paleo,Magnetismo,UniversidadCompleta,['Calor'],1002,['28255'],,Exactas
+13,Presion,No se,1,10,18 a 24,5,Medicas,Presion,UniversidadCurso,['Magnetismo'],1002,['42285'],,Afines
+14,Magnetismo,No,3,3,25 a 40,5,,Electricidad,UniversidadCurso,['Magnetismo'],1002,['29563'],,
+15,No lo se,Si,1,1,18 a 24,4,Arq/Diseño,Magnetismo,,['Presion'],1002,['54173'],,Afines
+16,No lo se,No,1,5,25 a 40,8,Cs. Sociales,Magnetismo,UniversidadCurso,['Electricidad'],1002,['17768'],,NoAfines
+17,No lo se,No,1,10,25 a 40,2,Arq/Diseño,Magnetismo,UniversidadCurso,['Presion'],1002,['19317'],,Afines
+18,Calor,No,10,6,25 a 40,6,Arq/Diseño,Electricidad,UniversidadCurso,['Aura Corporal'],1002,['19023'],,Afines
+19,No lo se,No se,9,10,25 a 40,9,Arq/Diseño,Magnetismo,UniversidadCurso,['Electricidad'],1002,['46830'],,Afines
+20,EnergiaCosmica,Si,8,5,18 a 24,4,Arq/Diseño,Aura Corporal,UniversidadCurso,['Electricidad'],1002,['45376'],,Afines
+21,Presion,Si,8,7,18 a 24,4,Arq/Diseño,Calor,UniversidadCurso,['FisicaCuantica'],1002,['56488'],,Afines
+22,Presion,Si,8,5,18 a 24,7,Arq/Diseño,Magnetismo,UniversidadCurso,"['Presion', 'Calor']",1002,['19070'],,Afines
+23,EnergiaCosmica,Si,10,5,18 a 24,6,Arq/Diseño,Aura Corporal,UniversidadCurso,['FisicaCuantica'],1002,['30714'],,Afines
+24,EnergiaCosmica,No,10,1,18 a 24,1,Arq/Diseño,Magnetismo,,['Electricidad'],1002,['32723'],,Afines
+25,Aura Corporal,Si,10,5,18 a 24,7,Arq/Diseño,Magnetismo,UniversidadCurso,['Aura Corporal'],1002,['38823'],,Afines
+26,Electricidad,No,7,5,18 a 24,8,Arq/Diseño,Magnetismo,Terciario,['Calor'],1002,['25816'],,Afines
+27,Electricidad,No se,7,6,25 a 40,5,Arq/Diseño,Magnetismo,UniversidadCurso,['Electricidad'],1002,['19686'],,Afines
+28,No lo se,No se,5,4,18 a 24,6,Arq/Diseño,Calor,UniversidadCurso,['Presion'],1002,['40491'],,Afines
+29,Aura Corporal,No,10,10,25 a 40,10,Arq/Diseño,,UniversidadCurso,['FisicaCuantica'],1002,['16421'],,Afines
+30,Presion,No,3,8,18 a 24,4,Bio/Qui/Geo/Paleo,Presion,,['Calor'],1002,['51735'],,Exactas
+31,Presion,Si,5,5,18 a 24,3,Bio/Qui/Geo/Paleo,Calor,Secundaria,,1002,['21592'],,Exactas
+32,No lo se,Si,7,0,18 a 24,0,Bio/Qui/Geo/Paleo,No lo se,UniversidadCurso,['Electricidad'],1002,['65066'],,Exactas
+33,Presion,Si,7,4,18 a 24,5,Bio/Qui/Geo/Paleo,Magnetismo,,['Electricidad'],1002,['30980'],,Exactas
+34,Presion,Si,4,9,18 a 24,0,Bio/Qui/Geo/Paleo,Magnetismo,UniversidadCurso,['Presion'],1002,['52943'],,Exactas
