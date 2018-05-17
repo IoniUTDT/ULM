@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+- SDAPS -- recognize
+------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/usr/bin/sdaps", line 23, in <module>
+    sys.exit(sdaps.main())
+  File "/usr/lib/python2.7/dist-packages/sdaps/__init__.py", line 64, in main
+    return cmdline['_func'](cmdline)
+  File "/usr/lib/python2.7/dist-packages/sdaps/script.py", line 105, in decorated_function
+    result = function(cmdline)
+  File "/usr/lib/python2.7/dist-packages/sdaps/cmdline/recognize.py", line 46, in recognize
+    survey = model.survey.Survey.load(cmdline['project'])
+  File "/usr/lib/python2.7/dist-packages/sdaps/model/survey.py", line 148, in load
+    file = bz2.BZ2File(os.path.join(survey_dir, 'survey'), 'r')
+IOError: [Errno 2] No such file or directory: './survey'
+------------------------------------------------------------------------------
+- SDAPS -- recognize
+------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/usr/bin/sdaps", line 23, in <module>
+    sys.exit(sdaps.main())
+  File "/usr/lib/python2.7/dist-packages/sdaps/__init__.py", line 64, in main
+    return cmdline['_func'](cmdline)
+  File "/usr/lib/python2.7/dist-packages/sdaps/script.py", line 105, in decorated_function
+    result = function(cmdline)
+  File "/usr/lib/python2.7/dist-packages/sdaps/cmdline/recognize.py", line 46, in recognize
+    survey = model.survey.Survey.load(cmdline['project'])
+  File "/usr/lib/python2.7/dist-packages/sdaps/model/survey.py", line 148, in load
+    file = bz2.BZ2File(os.path.join(survey_dir, 'survey'), 'r')
+IOError: [Errno 2] No such file or directory: './FormularioAFA/survey'

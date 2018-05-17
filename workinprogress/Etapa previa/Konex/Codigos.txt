@@ -1,0 +1,33 @@
+Formacion
+1_1
+Artes
+Biomedicas
+Economicas
+Ciencias Exactas
+Fisica
+Ciencias Sociales
+Derecho
+Otra Carrera
+Psicologia
+Ninguna
+Otro
+
+Justificacion
+2_1
+Calor
+Telequinesis
+Magnetismo
+Energia Cosmica
+Presion
+Fisica Cuantica
+Electricidad
+No lo se
+
+Seguridad
+3_1
+
+Truco
+3_2
+Si
+No
+No se

@@ -1,0 +1,226 @@
+\documentclass[
+  % Babel language, also used to load translations
+  %english,
+  spanish,
+  % Use A4 paper size, you can change this to eg. letterpaper if you need
+  % the letter format. The normal methods to modify the paper size should
+  % be picked up by SDAPS automatically.
+  a4paper, % setting this might break the example scan unfortunately
+  % letterpaper
+  %
+  % If you need it, you can add a custom barcode at the center
+  globalid=1003, % Piloto facu
+  %
+  % And the following adds a per sheet barcode at the bottom left
+  print_questionnaire_id,
+  %
+  % You can choose between twoside and oneside. twoside is the default, and
+  % requires the document to be printed and scanned in duplex mode.
+  % oneside,
+  %
+  % The following options make sense so that we can get a better feel for the
+  % final look.
+  pagemark,
+  stamp]{sdaps}
+\usepackage[utf8]{inputenc}
+% For demonstration purposes
+\usepackage{multicol}
+
+\author{}
+\title{}
+
+\begin{document}
+  % Everything you do should be done inside the questionnaire environment.
+
+  % If you don't like the default text at the beginning of each questionnaire
+  % you can remove it with the optional [noinfo] parameter for the environment 
+  \begin{questionnaire}[noinfo]
+    % There is a predefined "info" style to hilight some text.
+    %\begin{info}
+    %  Some information here. Nothing special, just adds a line above/below.
+    %\end{info}
+
+
+    \section{Información personal}
+
+	\begin{choicequestion}[3]{Seleccione su edad}
+	\choiceitem{Menos de 5 años}
+	\choicemulticolitem{2}{Entre 5 y 12 años}
+	\choiceitem{Entre 13 y 17}
+	\choicemulticolitem{2}{Entre 18 y 24 años}
+	\choiceitem{Entre 25 y 40 años}
+	\choicemulticolitem{2}{Más de 40 años}
+
+	\end{choicequestion}
+
+	\begin{choicequestion}[3]{Seleccione su área de interés profesional}
+	\choiceitem{Psicología}
+	\choicemulticolitem{2}{Biología/Química/Geología/Paleontología}
+	\choiceitem{Artes plásticas}
+	\choicemulticolitem{2}{Ciencias Médicas (medicina, kinesiología, odontología, etc)}
+
+	\choiceitem{Arquitectura/Diseño}
+	\choicemulticolitem{2}{Física/Cs Atmósfera/Oceanografía}
+	\choiceitem{Música}
+	\choicemulticolitem{2}{Turismo}
+	
+	\choiceitem{Derecho}
+	\choicemulticolitem{2}{Matemática/Computación/Ing. Sistemas}
+	\choiceitem{Farmacia/Bioquímica}
+	\choicemulticolitem{2}{Profesorado/Docencia(Cs Naturales y afines)}
+
+	\choiceitem{Letras}
+	\choicemulticolitem{2}{Profesorado/Docencia(Cs Sociales, letras, artes, afines)}
+	\choiceitem{Deportes/Danzas}
+	\choicemulticolitem{2}{Ingeniería (no sistemas)}
+
+	\choiceitem{Cs Sociales}
+	\choicemulticolitem{2}{Gastronomía}
+	\choiceitem{Marketing/Publicidad}
+	\choicemulticolitem{2}{Cs Económicas (economía, contador, etc)}
+
+	\choiceitem{Agronomía/Veterinaria}
+
+	\choiceitemtext{0.5cm}{1}{Otra opción:}
+
+	\end{choicequestion}
+
+	\begin{choicequestion}[3]{Seleccione su nivel de estudios formales}
+
+	\choiceitem{Primaria Completa}
+	\choicemulticolitem{2}{Secundaria Completa}
+	\choiceitem{Terciario Completo}
+	\choicemulticolitem{2}{Universidad Completa}
+	\choiceitem{Universidad en curso}
+	\choicemulticolitem{2}{Posgrado Completo}
+
+
+	\end{choicequestion}
+
+    \section{Acerca de lo que acaba de ver evalue la factibilidad de cada una de las siguientes opciones}
+    
+      \begin{multicols}{2}
+      \begin{choicegroup}{Marque una sola opción en la primera columna, y todas las demás que le parezcan posibles en la segunda.}
+	% We have to add the possible choices at the start.
+      \groupaddchoice{Mi elección}
+      \groupaddchoice{Podría ser}
+      
+      % After that it is possible to add each question.
+      \choiceline{Calor}
+      \choiceline{Telequinesis}
+      \choiceline{Magnetismo}
+      \choiceline{Energía Cósmica}
+      \choiceline{Física Cuántica}
+      \choiceline{Presión}
+      \choiceline{Aura Corporal}
+      \choiceline{Electricidad}
+      \choiceline{Poderes Mágicos}
+      \choiceline{No lo se}
+      \end{choicegroup}
+
+	\setcounter{markcheckboxcount}{7}
+	\begin{markgroup}{Marque cuan factible le parece cada opción, la haya seleccionado o no.}
+	  \markline{}{Mucho}{Nada}
+	  \markline{}{Mucho}{Nada}
+	  \markline{}{Mucho}{Nada}  
+	  \markline{}{Mucho}{Nada}  
+	  \markline{}{Mucho}{Nada}
+	  \markline{}{Mucho}{Nada}
+	  \markline{}{Mucho}{Nada}  
+	  \markline{}{Mucho}{Nada}  
+	  \markline{}{Mucho}{Nada}  
+	  \markline{}{Mucho}{Nada}
+	\end{markgroup}
+
+    \end{multicols}
+
+    \textbox{1cm}{Algo que quiera agregar...}
+    \setcounter{markcheckboxcount}{10}  
+    \singlemark{¿Cuan relevante le parece en el proceso cómo se acerca la mano?}{Irrelevante}{Determinante}
+
+
+    % Use \addinfo to add metadata (which is printed on the report later on)
+    % \addinfo{Date}{\today}
+
+    \newpage
+
+    \section{Nuevamente, acerca de lo que acaba de ver, evalue la factibilidad de cada una de las siguientes opciones}
+    
+      \begin{multicols}{2}
+      \begin{choicegroup}{Marque una sola opción en la primera columna, y todas las demás que le parezcan posibles en la segunda.}
+	% We have to add the possible choices at the start.
+      \groupaddchoice{Mi elección}
+      \groupaddchoice{Podría ser}
+      
+      % After that it is possible to add each question.
+      \choiceline{Calor}
+      \choiceline{Telequinesis}
+      \choiceline{Magnetismo}
+      \choiceline{Energía Cósmica}
+      \choiceline{Física Cuántica}
+      \choiceline{Presión}
+      \choiceline{Aura Corporal}
+      \choiceline{Electricidad}
+      \choiceline{Poderes Mágicos}
+      \choiceline{No lo se}
+      \end{choicegroup}
+
+	\setcounter{markcheckboxcount}{7}
+	\begin{markgroup}{Marque cuan factible le parece cada opción, la haya seleccionado o no.}
+	  \markline{}{Mucho}{Nada}
+	  \markline{}{Mucho}{Nada}
+	  \markline{}{Mucho}{Nada}  
+	  \markline{}{Mucho}{Nada}  
+	  \markline{}{Mucho}{Nada}
+	  \markline{}{Mucho}{Nada}
+	  \markline{}{Mucho}{Nada}  
+	  \markline{}{Mucho}{Nada}  
+	  \markline{}{Mucho}{Nada}  
+	  \markline{}{Mucho}{Nada}
+	\end{markgroup}
+
+    \end{multicols}
+
+    \begin{choicequestion}[3]{¿Piensa que hay algún truco que no notó y explica lo ocurrido?}
+      \choiceitem{Si}
+      \choiceitem{No}
+      \choiceitem{No se}
+    \end{choicequestion}
+
+	\section{Un poco más de información personal...}
+
+    \begin{choicegroup}{¿Cuán a gusto se siente realizando las siguientes tareas?}
+      % We have to add the possible choices at the start.
+      \groupaddchoice{Me encanta}
+      \groupaddchoice{Me gusta}
+      \groupaddchoice{Ni}
+      \groupaddchoice{No me gusta}
+      \groupaddchoice{Lo odio}
+
+      % After that it is possible to add each question.
+      \choiceline{Bailar}
+      \choiceline{Cocinar}
+      \choiceline{Hacer ejercicios de matemática}
+      \choiceline{Mirar películas/series}
+      \choiceline{Construir cosas}
+      \choiceline{Trabajo de oficina}
+      \choiceline{Tarot}
+      \choiceline{Leer libros}
+      \choiceline{Prácticas religiosas}
+      \choiceline{Reparar cosas}
+      \choiceline{Programar}
+      \choiceline{Correr}
+      \choiceline{Resolver Acertijos}
+      \choiceline{Astrología}
+      \choiceline{Jugar deportes en equipo}
+      \choiceline{Debatir}
+      \choiceline{Trucos de magia}
+      \choiceline{Electrónica}
+
+
+    \end{choicegroup}
+
+
+  \end{questionnaire}
+\end{document}
+
