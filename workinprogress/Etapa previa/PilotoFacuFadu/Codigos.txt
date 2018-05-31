@@ -1,4 +1,4 @@
-Edad_M
+Edad
 1_1
 <5
 5-12
@@ -6,3 +6,231 @@ Edad_M
 18-24
 25-40
 >40
+
+Profesion
+1_2
+Psicologia
+Bio/Qui/Geo/Pale
+Docente/Prof
+Cs_Medicas
+Arq/Diseno
+Fisica/CsAt/Ocea
+Musica
+Turismo
+Derecho
+Mate/Comp/Sist
+Farm/Bioq
+Plasticas
+Letras
+Agro/Vet
+Deportes/Danza
+Ingenieria
+Sociales
+Gastronomia
+Mark/Publicidad
+Economicas
+Otra
+
+Estudios
+1_3
+Primaria
+Secundaria
+Terciario
+Universidad_en_curso
+Universidad
+Posgrado
+
+Justificacion1
+2_1
+Calor
+Telequinesis
+Magnetismo
+Cosmica
+Cuantica
+Presion
+Aura
+Electricidad
+No Se
+
+Seguridad1
+2_2
+
+JustificacionSecundaria_M
+2_3
+Calor
+Telequinesis
+Magnetismo
+Cosmica
+Cuantica
+Presion
+Aura
+Electricidad
+Otra
+
+RelevanciaMano
+2_4
+
+Justificacion2
+3_1
+Calor
+Telequinesis
+Magnetismo
+Cosmica
+Cuantica
+Presion
+Aura
+Electricidad
+No Se
+
+Seguridad2
+3_2
+
+Truco
+3_3
+Si
+No
+No se
+
+Bailar
+4_1_1
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
+
+Cocinar
+4_1_2
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
+
+Matematica
+4_1_3
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
+
+Peliculas
+4_1_4
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
+
+Construir
+4_1_5
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
+
+Oficina
+4_1_6
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
+
+Tarot
+4_1_7
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
+
+Libros
+4_1_8
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
+
+Religion
+4_1_9
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
+
+Reparar
+4_1_10
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
+
+Programar
+4_1_11
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
+
+Correr
+4_1_12
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
+
+Acertijos
+4_1_13
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
+
+Astrologia
+4_1_14
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
+
+Deportes
+4_1_15
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
+
+Debatir
+4_1_16
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
+
+Magia
+4_1_17
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
+
+Electronica
+4_1_18
+Encanta
+Gusta
+Ni
+No Gusta
+Odio
