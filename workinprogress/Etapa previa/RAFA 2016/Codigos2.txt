@@ -1,0 +1,27 @@
+De estas columnas hay que transformar los 0 en Null y llevar la escala que va de 1 a 7 en una escala de 0 a 1.
+LimpiarYNormalizar
+Calor1Numerico
+Telequinesis1Numerico
+Magnetismo1Numerico
+Cosmica1Numerico
+Cuantica1Numerico
+Presion1Numerico
+Aura1Numerico
+Electricidad1Numerico
+Poderes1Numerico
+NoLoSe1Numerico
+
+De estas columnas hay que transformar extraer cual tiene el valor "Es" y ver cuales tienen el valor "Podria" 
+ReagruparEsPodria
+Justificacion1
+Calor1
+Telequinesis1
+Magnetismo1
+Cosmica1
+Cuantica1
+Presion1
+Aura1
+Electricidad1
+Poderes1
+NoLoSe1
+
