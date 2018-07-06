@@ -1,0 +1,117 @@
+,questionnaire_id,global_id,Formacion,Justificacion,Seguridad,Truco
+0,None,None,Biomedicas,Telequinesis,4,Si
+1,None,None,Ciencias Sociales,No lo se,10,No se
+2,None,None,NS/NC,NS/NC,0,NS/NC
+3,None,None,Artes,Magnetismo,7,No
+4,None,None,Artes,Presion,8,No se
+5,None,None,Ciencias Sociales,Magnetismo,7,Si
+6,None,None,Ciencias Sociales,Magnetismo,5,No se
+7,None,None,Psicologia,Electricidad,6,No
+8,None,None,Ninguna,Fisica Cuantica,2,No
+9,None,None,Ciencias Sociales,Null,10,No
+10,None,None,Ciencias Sociales,Magnetismo,5,Si
+11,None,None,Economicas,Presion,2,Si
+12,None,None,Ninguna,Magnetismo,2,No se
+13,None,None,Biomedicas,Magnetismo,8,Si
+14,None,None,Fisica,Magnetismo,8,Si
+15,None,None,Artes,Presion,10,No se
+16,None,None,Otro,Magnetismo,8,No
+17,None,None,Ciencias Exactas,Presion,10,No se
+18,None,None,Artes,Fisica Cuantica,4,Si
+19,None,None,Fisica,Calor,1,No
+20,None,None,NS/NC,No lo se,5,No
+21,None,None,Derecho,Magnetismo,5,No
+22,None,None,Null,Null,7,No
+23,None,None,Ninguna,Fisica Cuantica,7,Si
+24,None,None,Ciencias Exactas,Energia Cosmica,1,Si
+25,None,None,Biomedicas,Presion,10,Si
+26,None,None,Biomedicas,Magnetismo,4,Si
+27,None,None,Biomedicas,Electricidad,6,Si
+28,None,None,Biomedicas,Presion,10,No
+29,None,None,Otra Carrera,Magnetismo,6,No
+30,None,None,Otro,No lo se,3,Null
+31,None,None,Economicas,No lo se,0,No se
+32,None,None,Ciencias Exactas,Presion,10,No
+33,None,None,Psicologia,Calor,5,No se
+34,None,None,Psicologia,Presion,6,No se
+35,None,None,Artes,Presion,9,Si
+36,None,None,Ciencias Sociales,Calor,4,No
+37,None,None,Ninguna,Telequinesis,5,Si
+38,None,None,Otra Carrera,Magnetismo,10,No
+39,None,None,Otra Carrera,Calor,3,No
+40,None,None,Otra Carrera,NS/NC,10,NS/NC
+41,None,None,Biomedicas,Magnetismo,8,No
+42,None,None,Ninguna,No lo se,0,Si
+43,None,None,Economicas,No lo se,0,Si
+44,None,None,Otra Carrera,Calor,4,No
+45,None,None,Economicas,Magnetismo,10,Si
+46,None,None,Ciencias Exactas,Null,7,No
+47,None,None,Otro,Energia Cosmica,7,No
+48,None,None,Economicas,Presion,5,Si
+49,None,None,Null,Magnetismo,5,No
+50,None,None,Ciencias Exactas,No lo se,0,No
+51,None,None,Null,Magnetismo,8,No
+52,None,None,Ciencias Sociales,Energia Cosmica,8,No se
+53,None,None,Biomedicas,Magnetismo,4,No
+54,None,None,Biomedicas,No lo se,10,Si
+55,None,None,Ciencias Sociales,No lo se,0,No
+56,None,None,Psicologia,Calor,6,Si
+57,None,None,Ciencias Exactas,Electricidad,4,No se
+58,None,None,Ciencias Exactas,Presion,2,No se
+59,None,None,Artes,Magnetismo,6,No se
+60,None,None,Biomedicas,No lo se,10,No
+61,None,None,Ciencias Exactas,Presion,10,No
+62,None,None,Ciencias Sociales,No lo se,0,No se
+63,None,None,Ciencias Sociales,Magnetismo,7,Si
+64,None,None,Ciencias Exactas,Null,7,No
+65,None,None,Otra Carrera,Calor,6,No
+66,None,None,Artes,Presion,1,Si
+67,None,None,Artes,Telequinesis,2,No
+68,None,None,Ciencias Exactas,Energia Cosmica,6,No
+69,None,None,Null,Magnetismo,5,No
+70,None,None,Null,Presion,9,Si
+71,None,None,Psicologia,Magnetismo,9,No
+72,None,None,Biomedicas,Presion,9,Si
+73,None,None,Otra Carrera,Magnetismo,4,No
+74,None,None,Derecho,No lo se,6,Si
+75,None,None,Ninguna,Magnetismo,8,No
+76,None,None,Economicas,Electricidad,8,NS/NC
+77,None,None,Otra Carrera,No lo se,6,No
+78,None,None,NS/NC,NS/NC,0,NS/NC
+79,None,None,Ninguna,No lo se,5,Si
+80,None,None,Economicas,Magnetismo,5,No
+81,None,None,NS/NC,NS/NC,0,NS/NC
+82,None,None,NS/NC,NS/NC,0,NS/NC
+83,None,None,Psicologia,No lo se,0,No
+84,None,None,Economicas,Magnetismo,7,No
+85,None,None,Ciencias Exactas,Presion,8,No
+86,None,None,Otro,Electricidad,5,No
+87,None,None,Economicas,Magnetismo,4,No se
+88,None,None,Economicas,Magnetismo,8,No se
+89,None,None,Economicas,Fisica Cuantica,10,No
+90,None,None,Ciencias Sociales,Magnetismo,6,Si
+91,None,None,Ciencias Sociales,Magnetismo,8,NS/NC
+92,None,None,Biomedicas,Magnetismo,9,Si
+93,None,None,Ciencias Sociales,Telequinesis,2,No se
+94,None,None,Biomedicas,Magnetismo,4,No
+95,None,None,Biomedicas,Magnetismo,6,No se
+96,None,None,Otra Carrera,No lo se,0,Si
+97,None,None,Ciencias Exactas,Presion,10,No
+98,None,None,Otro,Magnetismo,3,No
+99,None,None,Biomedicas,Presion,7,Si
+100,None,None,Null,Telequinesis,10,NS/NC
+101,None,None,Null,Null,10,Null
+102,None,None,Otra Carrera,Magnetismo,8,No
+103,None,None,Economicas,Presion,6,No se
+104,None,None,Ciencias Sociales,No lo se,4,Si
+105,None,None,Ciencias Sociales,Magnetismo,1,No se
+106,None,None,NS/NC,Null,7,No
+107,None,None,Otro,No lo se,1,Si
+108,None,None,NS/NC,NS/NC,0,NS/NC
+109,None,None,NS/NC,NS/NC,0,NS/NC
+110,None,None,Derecho,Magnetismo,0,NS/NC
+111,None,None,Ciencias Sociales,Magnetismo,7,No
+112,None,None,Economicas,Null,8,No
+113,None,None,Ciencias Exactas,No lo se,1,No se
+114,None,None,Ninguna,Null,2,Si
+115,None,None,Otra Carrera,Presion,6,Si
