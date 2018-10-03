@@ -1,0 +1,36 @@
+,questionnaire_id,global_id,Edad,Profesion,Estudios,Justificacion1,Seguridad1,JustificacionSecundaria,RelevanciaMano,Justificacion2,Seguridad2,Truco,Bailar,Cocinar,Matematica,Peliculas,Construir,Oficina,Tarot,Libros,Religion,Reparar,Programar,Correr,Acertijos,Astrologia,Deportes,Debatir,Magia,Electronica
+0,['31256'],1002,18-24,Mate/Comp/Sist,Secundaria,Calor,5,"['Magnetismo', 'Presion']",3,No Se,1,Si,Gusta,Ni,Encanta,Encanta,Gusta,No Gusta,Ni,Gusta,No Gusta,Ni,Gusta,Ni,Encanta,Gusta,Gusta,Encanta,Gusta,Gusta
+1,['59406'],1002,18-24,Null,Null,Calor,5,['Magnetismo'],2,Electricidad,5,Si,Gusta,Gusta,Gusta,Gusta,No Gusta,No Gusta,Gusta,Gusta,Ni,Ni,Ni,Gusta,Gusta,Gusta,No Gusta,Ni,Gusta,Ni
+2,['55654'],1002,18-24,Ingenieria,Universidad,Magnetismo,0,"['Calor', 'Presion', 'Electricidad']",4,Magnetismo,3,Si,Ni,Encanta,Gusta,Encanta,NS/NC,No Gusta,No Gusta,Gusta,Odio,Encanta,Encanta,Gusta,Gusta,No Gusta,No Gusta,Gusta,No Gusta,Encanta
+3,['15766'],1002,25-40,Bio/Qui/Geo/Pale,Universidad,Presion,6,['Otra'],1,Presion,7,Si,Gusta,Gusta,No Gusta,Gusta,Encanta,Odio,Odio,Ni,Odio,Encanta,Gusta,Gusta,Gusta,Ni,Gusta,Gusta,Gusta,Encanta
+4,['61935'],1002,18-24,Bio/Qui/Geo/Pale,Null,Magnetismo,3,['Presion'],4,Presion,5,Si,Encanta,No Gusta,Odio,Gusta,Ni,Odio,No Gusta,Gusta,No Gusta,Ni,Ni,Gusta,Gusta,Gusta,Gusta,Gusta,Gusta,Ni
+5,['48628'],1002,18-24,Bio/Qui/Geo/Pale,Secundaria,Presion,6,['Magnetismo'],5,Presion,10,No se,Ni,Ni,Odio,Gusta,Ni,Odio,No Gusta,Ni,No Gusta,Ni,Ni,No Gusta,Gusta,No Gusta,No Gusta,Gusta,Gusta,No Gusta
+6,['41905'],1002,18-24,Bio/Qui/Geo/Pale,Universidad,Magnetismo,3,['Electricidad'],4,No Se,0,Si,Gusta,Gusta,Ni,Gusta,Gusta,No Gusta,Ni,Encanta,No Gusta,Gusta,No Gusta,Gusta,Gusta,Ni,Ni,Gusta,Gusta,No Gusta
+7,['25751'],1002,18-24,Bio/Qui/Geo/Pale,Universidad,Magnetismo,5,['Presion'],2,Magnetismo,4,No,Encanta,Gusta,Ni,Gusta,No Gusta,No Gusta,No Gusta,Gusta,No Gusta,Gusta,No Gusta,Gusta,Encanta,No Gusta,Encanta,Gusta,Gusta,No Gusta
+8,['57557'],1002,18-24,Bio/Qui/Geo/Pale,Universidad,Magnetismo,9,['Electricidad'],1,No Se,10,Si,Ni,Gusta,Encanta,Encanta,Gusta,Ni,No Gusta,Encanta,No Gusta,Gusta,Gusta,Encanta,Encanta,Odio,Encanta,Encanta,Encanta,Ni
+9,['59238'],1002,25-40,Bio/Qui/Geo/Pale,Universidad_en_curso,Magnetismo,7,['Electricidad'],10,Magnetismo,7,Si,Encanta,Encanta,Gusta,Encanta,Gusta,Ni,Odio,Encanta,Odio,Encanta,No Gusta,Ni,Gusta,Odio,Ni,Gusta,Gusta,Ni
+10,['51161'],1002,25-40,Null,Universidad_en_curso,Calor,5,[],2,Calor,6,No se,NS/NC,No Gusta,NS/NC,Encanta,Ni,NS/NC,No Gusta,Encanta,Odio,No Gusta,Ni,Gusta,Ni,Ni,Gusta,Encanta,NS/NC,No Gusta
+11,['34535'],1002,25-40,Musica,Universidad,Magnetismo,5,['Calor'],8,Magnetismo,7,No se,Gusta,Gusta,Gusta,Encanta,Encanta,Ni,Ni,Encanta,No Gusta,Encanta,Gusta,Ni,Encanta,Ni,Gusta,Gusta,Gusta,Gusta
+12,['28255'],1002,25-40,Bio/Qui/Geo/Pale,Universidad_en_curso,Magnetismo,6,['Calor'],6,Electricidad,4,Si,No Gusta,NS/NC,Gusta,Encanta,Ni,No Gusta,Ni,Encanta,No Gusta,Ni,Gusta,Odio,Gusta,No Gusta,Null,Gusta,Ni,Ni
+13,['42285'],1002,18-24,Cs_Medicas,Universidad,Presion,5,['Magnetismo'],1,Presion,10,No se,Gusta,Gusta,Ni,Encanta,Encanta,No Gusta,No Gusta,Encanta,No Gusta,Gusta,Ni,Gusta,Gusta,No Gusta,Gusta,Encanta,No Gusta,Ni
+14,['29563'],1002,25-40,Null,Universidad,Electricidad,5,['Magnetismo'],3,Magnetismo,3,No,Gusta,Encanta,No Gusta,Encanta,Ni,Ni,No Gusta,Encanta,Odio,Ni,Odio,No Gusta,Ni,Odio,Ni,Encanta,Ni,No Gusta
+15,['54173'],1002,18-24,Arq/Diseno,NS/NC,Magnetismo,4,['Presion'],1,No Se,1,Si,Gusta,Ni,No Gusta,Gusta,Gusta,No Gusta,Ni,Gusta,No Gusta,Gusta,No Gusta,No Gusta,Gusta,Gusta,Ni,Gusta,Gusta,Ni
+16,['17768'],1002,25-40,Sociales,Universidad,Magnetismo,8,['Electricidad'],1,No Se,5,No,Ni,Encanta,Encanta,Encanta,Encanta,No Gusta,Null,Encanta,Ni,No Gusta,Ni,Gusta,Encanta,No Gusta,Encanta,Encanta,Gusta,Gusta
+17,['19317'],1002,25-40,Arq/Diseno,Universidad,Magnetismo,2,['Presion'],1,No Se,10,No,Encanta,Gusta,Gusta,Gusta,Encanta,Ni,Ni,Gusta,No Gusta,Gusta,Ni,No Gusta,Gusta,Ni,Ni,Gusta,Gusta,Gusta
+18,['19023'],1002,25-40,Arq/Diseno,Universidad,Electricidad,6,['Aura'],10,Calor,6,No,Gusta,Gusta,Gusta,Gusta,Gusta,Odio,No Gusta,Null,Ni,Ni,Ni,Encanta,Encanta,Gusta,Gusta,Encanta,Gusta,Ni
+19,['46830'],1002,25-40,Arq/Diseno,Universidad,Magnetismo,9,['Electricidad'],9,No Se,10,No se,Encanta,Gusta,No Gusta,Ni,Encanta,Odio,Ni,Encanta,Gusta,Encanta,No Gusta,Encanta,Gusta,Encanta,Encanta,Encanta,Encanta,No Gusta
+20,['45376'],1002,18-24,Arq/Diseno,Universidad,Aura,4,['Electricidad'],8,Cosmica,5,Si,Encanta,Ni,No Gusta,Encanta,Gusta,Odio,Ni,Odio,Odio,Ni,Ni,Odio,Ni,Gusta,Gusta,Gusta,Ni,Encanta
+21,['56488'],1002,18-24,Arq/Diseno,Universidad,Calor,4,['Cuantica'],8,Presion,7,Si,Encanta,Gusta,Null,Encanta,Encanta,No Gusta,Odio,Ni,Odio,Ni,No Gusta,Gusta,Ni,Odio,Encanta,Gusta,Gusta,Gusta
+22,['19070'],1002,18-24,Arq/Diseno,Universidad,Magnetismo,7,"['Calor', 'Presion']",8,Presion,5,Si,Encanta,Gusta,Odio,Encanta,Gusta,Ni,Odio,Ni,Ni,Gusta,Gusta,Encanta,Ni,Gusta,Encanta,Ni,Gusta,Encanta
+23,['30714'],1002,18-24,Arq/Diseno,Universidad,Aura,6,['Cuantica'],10,Cosmica,5,Si,Encanta,Ni,Odio,Encanta,Gusta,Ni,Gusta,Gusta,Gusta,Gusta,No Gusta,Odio,Odio,Encanta,Gusta,Ni,Encanta,Gusta
+24,['32723'],1002,18-24,Arq/Diseno,Null,Magnetismo,1,['Electricidad'],10,Cosmica,1,No,Gusta,Gusta,Ni,Gusta,Gusta,Odio,Ni,Ni,Ni,Ni,Ni,Encanta,Ni,No Gusta,Encanta,Ni,Gusta,Gusta
+25,['38823'],1002,18-24,Arq/Diseno,Universidad,Magnetismo,7,['Aura'],10,Aura,5,Si,Gusta,Gusta,Odio,Ni,Odio,No Gusta,No Gusta,Null,Null,No Gusta,No Gusta,Encanta,No Gusta,Gusta,Gusta,Encanta,Gusta,No Gusta
+26,['25816'],1002,18-24,Arq/Diseno,Terciario,Magnetismo,8,['Calor'],7,Electricidad,5,No,Ni,Gusta,Gusta,Encanta,Gusta,No Gusta,Ni,Ni,Ni,Gusta,Ni,Ni,Encanta,Ni,Gusta,Ni,Encanta,Gusta
+27,['19686'],1002,25-40,Arq/Diseno,Universidad,Magnetismo,5,['Electricidad'],7,Electricidad,6,No se,Gusta,No Gusta,NS/NC,Encanta,Gusta,Gusta,No Gusta,Encanta,Ni,Ni,No Gusta,Ni,Gusta,Gusta,Gusta,Ni,Ni,No Gusta
+28,['40491'],1002,18-24,Arq/Diseno,Universidad,Calor,6,['Presion'],5,No Se,4,No se,Gusta,Ni,Ni,Encanta,Encanta,Ni,Ni,Ni,Odio,No Gusta,Ni,Ni,Ni,Gusta,Ni,Ni,NS/NC,NS/NC
+29,['16421'],1002,25-40,Arq/Diseno,Universidad,Null,10,['Cuantica'],10,Aura,10,No,Gusta,No Gusta,Gusta,Encanta,Encanta,Null,Ni,Encanta,Ni,Encanta,Odio,Encanta,Encanta,Gusta,Encanta,Encanta,Encanta,Ni
+30,['51735'],1002,18-24,Bio/Qui/Geo/Pale,Null,Presion,4,['Calor'],3,Presion,8,No,Gusta,Gusta,Gusta,Gusta,Gusta,Odio,No Gusta,NS/NC,Gusta,Null,Gusta,Ni,Gusta,No Gusta,Ni,Ni,Odio,No Gusta
+31,['21592'],1002,18-24,Bio/Qui/Geo/Pale,Secundaria,Calor,3,[],5,Presion,5,Si,Odio,Encanta,Gusta,Gusta,Ni,NS/NC,No Gusta,Encanta,No Gusta,Ni,Ni,Ni,Gusta,No Gusta,Ni,Gusta,Gusta,Ni
+32,['65066'],1002,18-24,Bio/Qui/Geo/Pale,Universidad,No Se,0,['Electricidad'],7,No Se,0,Si,Encanta,Gusta,Gusta,Ni,Ni,Odio,Odio,Encanta,Ni,Ni,No Gusta,Encanta,NS/NC,Odio,Gusta,Encanta,Odio,Ni
+33,['30980'],1002,18-24,Bio/Qui/Geo/Pale,Null,Magnetismo,5,['Electricidad'],7,Presion,4,Si,Encanta,Encanta,Odio,Encanta,Ni,No Gusta,Odio,No Gusta,Gusta,Ni,Odio,Gusta,Gusta,Ni,Encanta,Ni,Encanta,No Gusta
+34,['52943'],1002,18-24,Bio/Qui/Geo/Pale,Universidad,Magnetismo,0,['Presion'],4,Presion,9,Si,Odio,Odio,Ni,Gusta,Gusta,Odio,Odio,Gusta,Odio,NS/NC,Odio,Odio,Encanta,No Gusta,Ni,NS/NC,Ni,Null
